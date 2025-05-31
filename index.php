@@ -59,15 +59,15 @@
 
 
 .first-row {
-    display: flex; /* Uspořádá první dva nadpisy vedle sebe */
-    gap: 60px; /* Nastaví vzdálenost mezi nimi */
+    display: flex; /* první dva nadpisy vedle sebe */
+    gap: 60px; /* vzdálenost mezi nimi */
     margin-top: 5spx; /* Odsazení od horního okraje */
-    margin-left: 0px; /* Zarovná nadpisy na stejnou úroveň */
+    margin-left: 0px; /* Zarovnání nadpisů na stejnou úroveň */
 }
 
 .second-row {
     margin-top: 20px; /* Mezera mezi řádky */
-    margin-left: 0px; /* Zarovná třetí nadpis stejně jako první řadu */
+    margin-left: 0px; /* Zarovnání třetího nadpisu stejně jako první řadu */
 }
 .gallery-button {
     position: absolute;
@@ -106,10 +106,6 @@
     font-family: 'Open Sans', sans-serif;
 }
            
-    
-    /* padding dole = modrý prostor */
-
-
 /* Nová sekce pro obrázky */
 .image-section {
     background-color: white;
@@ -136,7 +132,7 @@
     transform: scale(1.05);
    box-shadow: 
         0 0 12x #e6e9eb,  
-        0 8px 8px rgba(0, 0, 0, 0.2);     /* stín pod obrázek */
+        0 8px 8px rgba(0, 0, 0, 0.2); /* stín pod obrázek */
 }
 
     </style>
@@ -163,13 +159,13 @@
 </div>
    
          <div class="text-content">
-    <iframe src="Animace25iframe.php" style="width: 100%; height: 510px; border: none;"></iframe>
+    <iframe src="Animace20iframe.php" style="width: 100%; height: 510px; border: none;"></iframe>
        </div>
     </div>
 </div>
 
 
-    <!-- Nová část s obrázky -->
+    <!-- Dolní část s obrázky -->
     <div class="image-section">
         <img src="Obr29.png" alt="Obrázek 1">
         <img src="Obr15.png" alt="Obrázek 2">
