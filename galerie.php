@@ -4,13 +4,12 @@
     <meta charset="UTF-8">
     <title>Galerie animací</title>
 
-    <!-- Přidán Google Fonts link s požadovanými váhami -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800;900&display=swap" rel="stylesheet">
 
     <style>
         /* Obecné nastavení stránky */
         body {
-            font-family: 'Open Sans', sans-serif;  /* změněný font */
+            font-family: 'Open Sans', sans-serif;  
             margin: 0;
             padding: 0;
             display: flex;
@@ -45,7 +44,7 @@
             text-align: center;
             text-decoration: none;
             transition: transform 0.3s ease, box-shadow 0.3s ease;
-            font-weight: 700; /* můžeš nastavit i váhu textu zde */
+            font-weight: 700; 
         }
 
         .gallery-item:hover {
@@ -67,12 +66,12 @@
         .caption {
             margin-top: 8px;
             font-size: 16px;
-            font-weight: 700;  /* tu také můžeš použít font-weight */
+            font-weight: 700;  
             color: #414f9e;
             padding: 12px 0;
             transition: color 0.3s ease;
             display: inline-block;
-            font-family: 'Open Sans', sans-serif; /* zajistit font i zde */
+            font-family: 'Open Sans', sans-serif; 
         }
 
         .gallery-item:hover .caption {
@@ -240,9 +239,9 @@
         <img src="Obr74.png" alt="Animace 37">
         <span class="caption">Animace 37</span>
     </a>
-     <a href="Animace38.php" class="gallery-item">
-        <img src="Obr19.png" alt="Animace 38">
-        <span class="caption">Animace 38</span>
+    <a href="Knihovna GSAP.php" class="gallery-item">
+        <img src="Obr74.png" alt="Knihovna GSAP">
+        <span class="caption">Knihovna GSAP</span>
     </a>
 </div>
 <div class="footer-divider"></div>
