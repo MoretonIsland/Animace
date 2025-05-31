@@ -16,6 +16,7 @@
             border: none;
             margin-top: 20px;
         }
+
     </style>
 </head>
 <body>
@@ -25,6 +26,9 @@
 
     <!-- Zde je vložená animace z CodePen -->
     <iframe height="300" style="width: 100%;" src="https://codepen.io/GreenSock/embed/nwRjgy?default-tab=html%2Cresult" frameborder="no"></iframe>
+
+<?php include 'floating-menu-button.php'; ?>
+<?php include 'floating-back-button.php'; ?>
 
 </body>
 </html>

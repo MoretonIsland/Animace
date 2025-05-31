@@ -50,6 +50,8 @@
 
     <!-- Připojení JS souboru -->
     <script src="script39.js"></script>
+<?php include 'floating-menu-button.php'; ?>
+<?php include 'floating-back-button.php'; ?>
 
 </body>
 </html>
