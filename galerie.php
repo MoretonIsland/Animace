@@ -248,7 +248,7 @@
         <span class="caption">Animace 39</span>
     </a>
     <a href="Knihovna GSAP2.php" class="gallery-item">
-        <img src="Obr74.png" alt="Knihovna GSAP2">
+        <img src="Obr78.png" alt="Knihovna GSAP2">
         <span class="caption">Animace 40</span>
     </a>
 </div>
