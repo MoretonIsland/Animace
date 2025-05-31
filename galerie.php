@@ -251,6 +251,10 @@
         <img src="Obr78.png" alt="Knihovna GSAP2">
         <span class="caption">Animace 40</span>
     </a>
+      <a href="Knihovna GSAP3.php" class="gallery-item">
+        <img src="Obr79.png" alt="Knihovna GSAP3">
+        <span class="caption">Animace 41</span>
+    </a>
 </div>
 <div class="footer-divider"></div>
 <?php include 'floating-menu-button.php'; ?>
