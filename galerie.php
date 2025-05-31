@@ -241,7 +241,15 @@
     </a>
     <a href="Knihovna GSAP.php" class="gallery-item">
         <img src="Obr74.png" alt="Knihovna GSAP">
-        <span class="caption">Knihovna GSAP</span>
+        <span class="caption">Animace 38</span>
+    </a>
+    <a href="Knihovna GSAP1.php" class="gallery-item">
+        <img src="Obr74.png" alt="Knihovna GSAP1">
+        <span class="caption">Animace 39</span>
+    </a>
+    <a href="Knihovna GSAP2.php" class="gallery-item">
+        <img src="Obr74.png" alt="Knihovna GSAP2">
+        <span class="caption">Animace 40</span>
     </a>
 </div>
 <div class="footer-divider"></div>
