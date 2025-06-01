@@ -14,12 +14,12 @@
         }
 
         .image-row img {
-            opacity: 0; /* Na začátku jsou obrázky skryté */
-            transition: opacity 2s ease-in-out; /* Plynulé objevení */
+            opacity: 0; /* na začátku jsou obrázky skryté */
+            transition: opacity 2s ease-in-out; /* plynulé objevevování */
         }
 
         .image-row img.visible {
-            opacity: 1; /* Postupně se zobrazí */
+            opacity: 1; /* postupně se zobrazí */
         }
 
         
