@@ -66,6 +66,8 @@
 }
 
 .second-row {
+    display: flex; /* první dva nadpisy vedle sebe */
+    gap: 50px; /* vzdálenost mezi nimi */
     margin-top: 20px; /* Mezera mezi řádky */
     margin-left: 0px; /* Zarovnání třetího nadpisu stejně jako první řadu */
 }
@@ -150,6 +152,7 @@
     </div>
     <div class="second-row">
         <h1><b>SVG</b></h1>
+        <h1><b>Knihovny</b></h1>
     </div>
 
    <a href="galerie.php" class="gallery-button">
