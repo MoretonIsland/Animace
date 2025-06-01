@@ -72,7 +72,7 @@
         <h2>Více o `stagger ease` v Anime.js</h2>
         <p>Tato animace využívá knihovnu Anime.js k vytvoření efektu pohybujících se čtverců. 
            Funkce stagger() umožňuje, aby se každý prvek animoval postupně, což vytváří efekt 
-           pohybu. Pokud chceš zjistit více o `stagger ease` v Anime.js, podívej se na dokumentaci:</p>
+           pohybu. Níže je odkaz na dokumentaci v Anime.js.</p>
         <p><a href="https://animejs.com/documentation/stagger/stagger-parameters/stagger-ease" 
            target="_blank">Otevřít stránku s dokumentací</a></p>
     </div>
