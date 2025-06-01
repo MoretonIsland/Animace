@@ -46,8 +46,8 @@
 <body>
 
     <div class="split" id="quote">Varnsdorf Rumburk Děčín Šluknov Rybniště Chřibská</div>
-    <div class="split" id="decoys">tween timeline from set utils whizz ease sine back bounce spin transform scale split svg text ui scroll slide rotate hide parallax morph</div>  
-
+    <div class="split" id="decoys">Plzeň Liberec Chrudim Zlín Pardubice 
+        Mělník Nymburk Písek Poděbrady Jičín Náchod Litoměřice Doksy Skuteč Hlinsko Frýdlant Napajedla Litomyšl</div>  
     <!-- Připojení JS souboru -->
     <script src="script39.js"></script>
 <?php include 'floating-menu-button.php'; ?>
