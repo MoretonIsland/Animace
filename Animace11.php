@@ -7,35 +7,37 @@
     <style>
       
 
-        .image-row {
-            display: flex;
-            justify-content: center;
-            margin-bottom: 5px;
-        }
+      .image-row {
+    display: flex;
+    justify-content: center;
+    gap: 40px; /* Stejné mezery mezi obrázky jako v Animace10.php */
+    padding: 0 50px; /* Odsazení od krajů stránky */
+    margin-bottom: 40px;
+}
 
         /* Obrázky začínají jako skryté */
         .image-row img {
             opacity: 0;
-            transition: opacity 2s ease-in-out; /* Plynulé objevení */
+            transition: opacity 2s ease-in-out; /* Plynulé objevování */
         }
 
         .image-row img.visible {
             opacity: 1; /* Zobrazí se */
         }
 
-        .image-container {
-            position: relative;
-            margin: 10px;
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
+       .image-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px; /* Stejná pevná velikost kontejneru */
+}
 
-        .image-container img {
-            max-width: 80%;
-            height: auto;
-        }
+       .image-container img {
+    width: 100%; /* Zabere 100 % kontejneru */
+    height: auto;
+    display: block;
+}
          .footer-divider {
     height: 20px;
     background-color: transparent;
