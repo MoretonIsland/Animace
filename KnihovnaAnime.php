@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anime.js Animace</title>
+     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script> <!-- Anime.js -->
     
     <style>
@@ -38,8 +39,20 @@
             margin-top: 100px; /* Zvýší mezeru mezi animací a textem */
             max-width: 600px; /* Maximální šířka odstavce */
             padding: 0 20px; /* Odsazení od levého a pravého okraje */
+            font-family: 'Open Sans', sans-serif;
+            Color: white;
+            font-size: 18px;
+            line-height: 1.6;
         }
 
+     .info h2 {
+           font-family: 'Open Sans', sans-serif;
+           color: #ddd;
+           font-size: 18px; /* nebo větší, podle potřeby, třeba 24px */
+           line-height: 1.6;
+           margin-bottom: 10px; /* mezera pod nadpisem */
+           font-size: 24px;  /* větší než odstavec */
+        }
 
         .info a {
             color: #f39c12;
@@ -67,7 +80,7 @@
         <div class="square"></div>
         <div class="square"></div>
     </div>
-
+  
     <div class="info">
         <h2>Více o `stagger ease` v Anime.js</h2>
         <p>Tato animace využívá knihovnu Anime.js k vytvoření efektu pohybujících se čtverců. 
