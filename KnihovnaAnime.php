@@ -77,6 +77,8 @@
            target="_blank">Otevřít stránku s dokumentací</a></p>
     </div>
 
-    <script src="script40.js"></script> <!-- Odkaz na tvůj JavaScript soubor -->
+<script src="script40.js"></script> <!-- Odkaz na tvůj JavaScript soubor -->
+<?php include 'floating-menu-button.php'; ?>
+<?php include 'floating-back-button.php'; ?>
 </body>
 </html>
