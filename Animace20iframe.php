@@ -32,12 +32,13 @@
 </style>
 <body>
  <div class="split" id="quote">Varnsdorf Rumburk Děčín Šluknov Rybniště Chřibská</div>
-    <div class="split" id="decoys">České Budějovice Hradec Králové Zlín Pardubice Ústí nad Labem Karlovy Vary</div>  
+    <div class="split" id="decoys">Plzeň Liberec Chrudim Zlín Pardubice 
+        Mělník Nymburk Písek Poděbrady Jičín Náchod Litoměřice Doksy</div>  
 
     <!-- Připojení JS souboru -->
     <script src="script39.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/gsap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/SplitText.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/SplitText.min.js"></script>
 
 <script src="script39.js"></script>
 
