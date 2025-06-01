@@ -5,7 +5,7 @@ document.fonts.ready.then(() => {
     decoy = document.getElementById("decoys"),
     quoteSplit = SplitText.create(quote, { type: "words" }),
     decoySplit = SplitText.create(decoy, { type: "words" }),
-    tl = gsap.timeline({ delay: 0.5, repeat: 10, repeatDelay: 1 }),
+    tl = gsap.timeline({ delay: 0.5, repeat: 50, repeatDelay: 1 }),
     allWords = quoteSplit.words.concat(decoySplit.words),
     i;
 
