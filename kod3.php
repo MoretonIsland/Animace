@@ -66,7 +66,7 @@ a:hover {
 </head>
 <body>
 
-<a href="Knihovna GSAP3.php">← Zpět</a>
+<a href="KnihovnaThree.php">← Zpět</a>
 
 <h2>JavaScript</h2>
 
