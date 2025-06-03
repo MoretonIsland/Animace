@@ -260,7 +260,7 @@
         <span class="caption">Animace 42</span>
     </a>
      <a href="KnihovnaThree1.php" class="gallery-item">
-        <img src="Obr81png" alt="KnihovnaThree1">
+        <img src="Obr81.png" alt="KnihovnaThree1">
         <span class="caption">Animace 43</span>
     </a>
 </div>
