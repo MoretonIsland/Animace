@@ -259,6 +259,10 @@
         <img src="Obr80.png" alt="KnihovnaAnime">
         <span class="caption">Animace 42</span>
     </a>
+     <a href="KnihovnaThree1.php" class="gallery-item">
+        <img src="Obr80.png" alt="KnihovnaThree1">
+        <span class="caption">Animace 43</span>
+    </a>
 </div>
 <div class="footer-divider"></div>
 <?php include 'floating-menu-button.php'; ?>
