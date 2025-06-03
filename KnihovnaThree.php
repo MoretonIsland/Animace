@@ -14,10 +14,6 @@
             font-family: 'Open Sans', sans-serif; 
         }
 
-        h1 {
-            text-align: center; 
-            color: #414f9e; 
-        }
        
         p {
             margin-left: 150px; /* Odsazení zleva */
@@ -55,9 +51,7 @@
 </head>
 <body>
 
- <?php include 'header.php'; ?>
-
-  <h1>3D animace s využitím knihovny Three.js</h1>
+ <?php include 'header-KnihovnaThree.php'; ?>
 
 <p>
     Na stránce je zobrazena webová animace rotující krychle. 
