@@ -32,7 +32,7 @@
 
         .split div {
           border-radius: 4px;
-          background: var(--color-surface-white);
+          background: #414f9e;
           padding: 0 8px;
           margin: 4px 0;
           -webkit-font-smoothing: antialiased;
@@ -44,11 +44,16 @@
     </style>
 </head>
 <body>
-
-    <div class="split" id="quote">Varnsdorf Rumburk Děčín Šluknov Rybniště Chřibská</div>
-    <div class="split" id="decoys">Plzeň Liberec Chrudim Zlín Pardubice 
-        Mělník Nymburk Písek Poděbrady Jičín Náchod Litoměřice Doksy Skuteč Hlinsko Frýdlant Napajedla Litomyšl</div>  
-    <!-- Připojení JS souboru -->
+    
+<div class="split" id="quote">Webové animace CSS JavaScript SVG Three.js Anime GSAP</div>
+<div class="split" id="decoys">hover scroll slideshow parallax transition animation 
+@keyframes transform setTimeout() setInterval() linear-gradient requestAnimationFrame 
+opacity index timeline rotate animation-duration animation-delay animation-iteration-count 
+infinite perspective spring effect mousemove mix-blend-mode clip-path hover-effects will-change 
+transform-style animation-play-state</div>  
+ 
+    
+       <!-- Připojení JS souboru -->
     <script src="script39.js"></script>
 <?php include 'floating-menu-button.php'; ?>
 <?php include 'floating-back-button.php'; ?>
