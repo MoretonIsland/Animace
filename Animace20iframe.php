@@ -20,7 +20,7 @@
 
         .split div {
           border-radius: 4px;
-          background: var(--color-surface-white);
+          background: #414f9e;
           padding: 0 8px;
           margin: 4px 0;
           -webkit-font-smoothing: antialiased;
@@ -31,9 +31,9 @@
         }
 </style>
 <body>
- <div class="split" id="quote">Varnsdorf Rumburk Děčín Šluknov Rybniště Chřibská</div>
-    <div class="split" id="decoys">Plzeň Liberec Chrudim Zlín Pardubice 
-        Mělník Nymburk Písek Poděbrady Jičín Náchod Litoměřice Doksy</div>  
+ <div class="split" id="quote">Webové animace CSS JavaScript SVG Three.js Anime</div>
+    <div class="split" id="decoys">hover scroll slideshow parallax transition animation 
+        @keyframes transform setTimeout() GSAP setInterval() linear-gradient requestAnimationFrame opacity index</div>  
 
     <!-- Připojení JS souboru -->
     <script src="script39.js"></script>
